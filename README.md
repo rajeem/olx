@@ -1,7 +1,7 @@
 OLX-DS
 ===
 
-A complete data scrapper utitly to fetch OLX ad details. **_(For learning purposes only)_**
+A complete data scraper utility to fetch OLX ad details. **_(For learning purposes only)_**
 
 This repo consists of three modules:
 - Core 
@@ -10,7 +10,7 @@ This repo consists of three modules:
 
 Core
 -
-It consists of main scrapper logic, its a .NET backed console application.
+It consists of main scraper logic, its a .NET backed console application.
 
 **_TODOS_**
 - Implement Async model. **Currently scraps synchronously**
@@ -35,7 +35,7 @@ Angular based dashboard to utilize API and display scrapped data.
 - Search ability
 - Display statistics
 
-Lisence
+License
 -
 The MIT License (MIT)
 
